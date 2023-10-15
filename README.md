@@ -11,7 +11,7 @@ The **Anti-Cheating Face Recognition System** is designed to prevent cheating in
 ## **Contributing**
 We welcome contributions from the community. If you'd like to contribute to the project, please follow these guidelines:
 
-Fork the repository.
-- Create a new branch for your feature or bug fix.
+- Fork the repository.
+- Download the 68_face_landmark file from 'http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2' and upload it to google colab.
 - Make your changes and test them thoroughly.
 - Submit a pull request.
